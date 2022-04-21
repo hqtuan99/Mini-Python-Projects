@@ -1,6 +1,6 @@
 # Mini-Python-Projects
 
-There are 3 games projects in this folder
+There are 3 games in this folder
 1. Number Guessing Game:
 * First, user enter a positive number as max range for the array
 * Then, user guesses the number from 0 to max range
